@@ -1,4 +1,4 @@
-Android Login Application which have sign-in features with google.
+Android Login Application which has sign-in features with google.
 
 
 ![WhatsApp Image 2022-04-18 at 3 07 29 PM](https://user-images.githubusercontent.com/101108540/163791930-c08797e8-96c8-4169-8c07-7eb3c9516246.jpeg)
